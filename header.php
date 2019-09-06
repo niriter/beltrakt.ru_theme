@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-
 <head>
   <title>Тракторы Беларус МТЗ — Купить новый трактор Беларусь, спецтехнику, навесное оборудование в Москве по ценам 2018-2019 года</title>
   <meta name="description" content="Белтракт.ру — официальный представитель Минского Тракторного Завода и тракторов Беларусь в Москве предлагает тракторную технику, коммунальные машины, навесное оборудование по ценам от производителя. Гарантийное и послегарантийное обслуживание. Звоните
@@ -8,31 +7,24 @@
   <meta name="keywords" content="МТЗ">
   <meta name="viewport" content="width=device-width">
   <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
-
   <link rel="stylesheet" type="text/css" href="http://beltrakt.ru/templates/template1/style.css?1506330694" />
   <link rel="stylesheet" type="text/css" href="http://beltrakt.ru/templates/template8/style.css?1506330694" />
   <link rel="stylesheet" type="text/css" href="http://beltrakt.ru/templates/css/css/print.css" media="print" />
-
   <!-- <link rel="stylesheet" type="text/css" href="/templates/css/css/print.css" /> -->
-
   <!-- jQuery -->
   <script type="text/javascript" src="http://beltrakt.ru/hostcmsfiles/jquery/jquery.js"></script>
   <script type="text/javascript" src="http://beltrakt.ru/hostcmsfiles/jquery/jquery.validate.js"></script>
   <script type="text/javascript" src="http://beltrakt.ru/hostcmsfiles/jquery/lightbox/js/jquery.lightbox.js"></script>
   <link rel="stylesheet" type="text/css" href="http://beltrakt.ru/hostcmsfiles/jquery/lightbox/css/jquery.lightbox.css" media="screen" />
-
   <link href="http://beltrakt.ru/favicon.ico" rel="icon" />
   <link rel="shortcut icon" type="image/x-icon" href="http://beltrakt.ru/favicon.ico" />
-
   <script type="text/javascript" src="http://beltrakt.ru/templates/template1/hostcms.js"></script>
   <script type="text/javascript" src="http://beltrakt.ru/hostcmsfiles/ajax/JsHttpRequest.js"></script>
   <script type="text/javascript" src="http://beltrakt.ru/hostcmsfiles/ajax/ajax.js"></script>
   <script type="text/javascript" src="http://beltrakt.ru/hostcmsfiles/main.js"></script>
   <script type="text/javascript" src="http://beltrakt.ru/hostcmsfiles/functions.ex.js"></script>
-
   <link rel="stylesheet" type="text/css" href="http://beltrakt.ru/templates/beltrakt/css/settings.css" media="screen" />
   <link rel="stylesheet" type="text/css" href="http://beltrakt.ru/templates/beltrakt/css/rs-responsive.css" media="screen" />
-
   <link rel="stylesheet" href="http://beltrakt.ru/templates/beltrakt/css/bootstrap.css" />
   <link rel="stylesheet" href="http://beltrakt.ru/templates/beltrakt/css/custom.css" />
   <link rel="stylesheet" href="http://beltrakt.ru/templates/beltrakt/css/styler.css" />
@@ -44,34 +36,25 @@
   <script src="https://use.fontawesome.com/e78b457385.js"></script>
   <link rel="stylesheet" href="http://beltrakt.ru/templates/beltrakt/css/flexslider.css" />
   <link rel="stylesheet" href="http://beltrakt.ru/templates/beltrakt/css/jquery.fancybox.css?v=2.1.0" type="text/css" media="screen" />
-
   <script type="text/javascript" src="http://beltrakt.ru/hostcmsfiles/jquery/bbedit/jquery.bbedit.js"></script>
-
   <script type="text/javascript">
     //var switchTo5x=true;
   </script>
-
-
-
   <script type="text/javascript">
     $(function() {
       $('#gallery a:has(img)').lightBox();
-
       $('.comments-title').click(function() {
         $('.comments-list').slideToggle();
         // $('#ShowAddComment').toggle();
       });
-
       //Предварительная загрузка изображений
       $.preLoadImages("http://beltrakt.ru/images/red_grad.gif",
         "http://beltrakt.ru/images/top_menu_l.gif",
         "http://beltrakt.ru/images/top_menu_r.gif");
     });
   </script>
-
   <!--<link href='http://fonts.googleapis.com/css?family=PT+Sans&amp;subset=latin,cyrillic' rel='stylesheet' type='text/css'>-->
 </head>
-
 <body class="background-cover">
   <div id="over">
     <div id="out_container" class="boxed-attached">
@@ -81,32 +64,23 @@
           <img src="http://beltrakt.ru/images/header-logo.png" alt="Тракторы МТЗ Беларус — Белтракт" class="header-logo">
         </a>
         <div id="title-header">
-
           <div id="titleone">
             <div class="titlef"><a href="http://beltrakt.ru/" style="text-decoration: none;">Белтракт.ру<br/>
 	<span style="font-size: 0.565em; font-weight: 700;">Дилер МТЗ в России</span></a></div>
           </div>
-
           <div id="titletwo">
             <div class="titlet"><a class="titlet" href="tel:+78003334712">8 (800) 333-47-12</a></strong>
             </div>
           </div>
-
           <div class="flcl"></div>
-
         </div>
-
         <div id="slogan-header">Продажа тракторов МТЗ Беларус и спецтехники
         </div>
-
-
-
         <div class="header">
           <div id="toplogo">
             <a href="/"><img src="http://beltrakt.ru/images/logo12.jpg" alt="Продажа тракторов Беларусь — Белтракт" title="Тракторы МТЗ Беларус — Белтракт"></a>
           </div>
         </div>
-
         <div class="container-phone">
           <div class="row">
             <div id="headspan">
@@ -119,9 +93,6 @@
               <img src="http://beltrakt.ru/upload_images/telephone.png" width="16" alt="Телефон">
               <strong onmouseover="ga('send','event', 'Number', 'Mouseover', '925_head');console.log('over');"><a href="tel:+79119373293">+7 (911) 937-32-93</a></strong>
               <br>
-
-
-
               <div id="headspan-email"><img src="http://beltrakt.ru/upload_images/email.png" alt="E-mail">
                 <script type="text/javascript">
                   //<![CDATA[
@@ -138,17 +109,14 @@
             </div>
           </div>
         </div>
-
-
         <div class="container">
           <div class="navbar">
             <div class="navbar-inner">
               <div class="container">
-
                 <div class="nav-collapse">
                   <ul class="nav nav-pills">
-                    <li class="active dropdown"><a class="dropdown-toggle" href="/traktory/">Тракторы<i></i>
-							</a>
+                    <li class="active dropdown">
+											<a class="dropdown-toggle" href="/traktory/">Тракторы<i></i></a>
                       <ul class="dropdown-menu">
                         <li><a href="/traktory/mini-traktory/">Мини-тракторы и мотоблоки</a></li>
                         <li><a href="/traktory/malogabaritnie-traktory/">Малогабаритные трактора</a></li>
@@ -161,9 +129,7 @@
                       </ul>
                     </li>
                     <li class="dropdown">
-                      <a class="dropdown-toggle" href="/traktory/navesnoe-oborudovanie/">
-									Навесное <i>оборудование</i>
-								</a>
+                      <a class="dropdown-toggle" href="/traktory/navesnoe-oborudovanie/">Навесное <i>оборудование</i></a>
                       <ul class="dropdown-menu">
                         <li><a href="/traktory/navesnoe-oborudovanie/pogruzochnoe-oborudovanie/">Погрузчики (куны)</a></li>
                         <li><a href="/traktory/navesnoe-oborudovanie/schetochnoe-oborudovanie/">Щетки</a></li>
@@ -178,22 +144,16 @@
                       </ul>
                     </li>
                     <li class="dropdown">
-                      <a class="dropdown-toggle" href="/traktory/kommunalnaya-tehnika/">
-									Коммунальная<i>техника</i>
-								</a>
+                      <a class="dropdown-toggle" href="/traktory/kommunalnaya-tehnika/">Коммунальная<i>техника</i></a>
                       <ul class="dropdown-menu">
                         <li><a href="/traktory/kommunalnaya-tehnika/uborochno-pogruzochnaya-tehnika/">Уборочно-погрузочная техника</a></li>
-
                         <li><a href="/traktory/kommunalnaya-tehnika/uborochnaya-tehnika/">Подметально-уборочная техника</a></li>
                         <li><a href="/traktory/kommunalnaya-tehnika/snegouborochnaya-tehnika/">Снегоуборочная техника</a></li>
                         <li><a href="/traktory/kommunalnaya-tehnika/na-baze-mtz-320/">Техника на базе МТЗ 320</a></li>
-
                       </ul>
                     </li>
                     <li class="dropdown">
-                      <a class="dropdown-toggle" href="/traktory/dorozhno-stroitelnaya-tehnika/">
-									Дорожно-строительная<i>техника</i>
-								</a>
+                      <a class="dropdown-toggle" href="/traktory/dorozhno-stroitelnaya-tehnika/">Дорожно-строительная<i>техника</i></a>
                       <ul class="dropdown-menu">
                         <li><a href="/traktory/dorozhno-stroitelnaya-tehnika/ekskavatory-pogruzchiki/">Экскаваторы-погрузчики</a></li>
                         <li><a href="/traktory/dorozhno-stroitelnaya-tehnika/frontalnie-pogruzchiki/">Фронтальные погрузчики МТЗ</a></li>
@@ -206,11 +166,8 @@
                       </ul>
                     </li>
                     <li class="dropdown">
-                      <a class="dropdown-toggle" href="/traktory/selskohoziastvennaya-tehnika/">
-									Сельскохозяйственная <i> техника</i>
-								</a>
+                      <a class="dropdown-toggle" href="/traktory/selskohoziastvennaya-tehnika/">Сельскохозяйственная <i> техника</i></a>
                       <ul class="dropdown-menu">
-
                         <li><a href="/traktory/selskohoziastvennaya-tehnika/kosilki/">Косилки</a></li>
                         <li><a href="/traktory/selskohoziastvennaya-tehnika/plugi/">Плуги</a></li>
                         <li><a href="/traktory/selskohoziastvennaya-tehnika/kultivatory/">Культиваторы</a></li>
@@ -228,9 +185,7 @@
                       </ul>
                     </li>
                     <li class="dropdown">
-                      <a class="dropdown-toggle" href="/traktory/pricepy-i-bochki/">
-									Прицепы <i> и бочки</i>
-								</a>
+                      <a class="dropdown-toggle" href="/traktory/pricepy-i-bochki/">Прицепы <i> и бочки</i></a>
                       <ul class="dropdown-menu">
                         <li><a href="/traktory/pricepy-i-bochki/pricepy-i-polupricepy-traktornye/">Тракторные прицепы</a></li>
                         <li><a href="/traktory/pricepy-i-bochki/bochki/">Поливомоечные машины и бочки</a></li>
@@ -241,10 +196,7 @@
                       </ul>
                     </li>
                     <li class="dropdown">
-                      <a class="dropdown-toggle">
-									Полезная <i>Информация</i>
-								</a>
-
+                      <a class="dropdown-toggle">Полезная <i>Информация</i></a>
                       <ul class="dropdown-menu">
                         <li><a href="/traktory/price/">Прайс-лист</a></li>
                         <li><a href="/dokumentaciya/">Документация</a></li>
@@ -252,11 +204,9 @@
                       </ul>
                     </li>
                     <li class="dropdown">
-                      <a class="dropdown-toggle" href="/about/">О компании<i></i>
-								</a>
+                      <a class="dropdown-toggle" href="/about/">О компании<i></i></a>
                       <ul class="dropdown-menu">
                         <li><a href="/contacts/">Контакты</a></li>
-
                         <li><a href="/about/dostavka/">Доставка</a></li>
                         <li><a href="/tekh-obsluzhivanie/">Техническое обслуживание</a></li>
                         <li><a href="/about/guarantee/">Гарантия</a></li>
@@ -265,9 +215,6 @@
                         <li><a href="/vacancy/">Вакансии</a></li>
                       </ul>
                     </li>
-
-
-
                   </ul>
                 </div>
               </div>
@@ -275,14 +222,11 @@
           </div>
         </div>
       </header>
-
-
       <div class="navbar-inner">
         <!-- Верхнее меню -->
       </div>
       <div class="header">
-        <div class="header_baner">
-
+        <div class="header_baner"
         </div>
       </div>
       <div class="clearing"></div>
