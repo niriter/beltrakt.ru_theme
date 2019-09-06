@@ -102,7 +102,7 @@
       <div class="row show-grid">
         <div class="span12" style="height: 30px;">
           <div class="footer-col">
-            <a href="http://beltrakt.ru/"> &laquo;Белтракт&raquo; — тракторы МТЗ Беларус</a> © 2012 - 2019 год
+            <a href="<?php echo get_home_url(); ?>"> &laquo;Белтракт&raquo; — тракторы МТЗ Беларус</a> © 2012 - 2019 год
             <br/>
           </div>
           <div class="footer-col-partners">

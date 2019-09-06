@@ -60,13 +60,13 @@
     <div id="out_container" class="boxed-attached">
       <!--<div class="top_line"></div>-->
       <header>
-        <a href="/" title="Тракторы МТЗ Беларус — Белтракт">
+        <a href="<?php echo get_home_url(); ?>" title="Тракторы МТЗ Беларус — Белтракт">
           <img src="http://beltrakt.ru/images/header-logo.png" alt="Тракторы МТЗ Беларус — Белтракт" class="header-logo">
         </a>
         <div id="title-header">
           <div id="titleone">
-            <div class="titlef"><a href="http://beltrakt.ru/" style="text-decoration: none;">Белтракт.ру<br/>
-	<span style="font-size: 0.565em; font-weight: 700;">Дилер МТЗ в России</span></a></div>
+            <div class="titlef"><a href="<?php echo get_home_url(); ?>" style="text-decoration: none;">Белтракт.ру<br/>
+							<span style="font-size: 0.565em; font-weight: 700;">Дилер МТЗ в России</span></a></div>
           </div>
           <div id="titletwo">
             <div class="titlet"><a class="titlet" href="tel:+78003334712">8 (800) 333-47-12</a></strong>
@@ -78,7 +78,7 @@
         </div>
         <div class="header">
           <div id="toplogo">
-            <a href="/"><img src="http://beltrakt.ru/images/logo12.jpg" alt="Продажа тракторов Беларусь — Белтракт" title="Тракторы МТЗ Беларус — Белтракт"></a>
+            <a href="<?php echo get_home_url(); ?>"><img src="http://beltrakt.ru/images/logo12.jpg" alt="Продажа тракторов Беларусь — Белтракт" title="Тракторы МТЗ Беларус — Белтракт"></a>
           </div>
         </div>
         <div class="container-phone">

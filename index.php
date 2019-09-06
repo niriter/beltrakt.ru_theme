@@ -323,7 +323,7 @@
           <div class="mainpg" onclick="location.href='/traktory/selskohoziastvennaya-tehnika/kultivatory/';">
             <div>
               <p>
-                <a href="http://beltrakt.ru/traktory/selskohoziastvennaya-tehnika/kultivatory/"> <img src="/upload_images/katalog/kultivatori.jpg" width="150" alt="Культиваторы" title="Культиваторы" /></a>
+                <a href="/traktory/selskohoziastvennaya-tehnika/kultivatory/"> <img src="/upload_images/katalog/kultivatori.jpg" width="150" alt="Культиваторы" title="Культиваторы" /></a>
               </p>
             </div>
             <div class="namepg">
