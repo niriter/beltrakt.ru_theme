@@ -93,56 +93,6 @@
 <div class="g-ytsubscribe" data-channel="beltrakt" data-layout="full" data-theme="dark" data-count="default" data-onytevent="onYtEvent"></div>
 </p>
 <div class="footer-col-counters">
-<!-- Rating@Mail.ru logo -->
-<a href="https://top.mail.ru/jump?from=2932001">
-<img src="//top-fwz1.mail.ru/counter?id=2932001;t=502;l=1"
-style="border:0;" height="31" width="88" alt="Рейтинг@Mail.ru" /></a>
-<!-- //Rating@Mail.ru logo -->
-
-<!--Rating::tehnika.agroserver.ru counter-->
-<a href="https://tehnika.agroserver.ru/" target="_blank">
-<script language="javascript">
-var r = escape(document.referrer);
-var rd = Math.random();
-var pr = 'https://tehnika.agroserver.ru/top/ct/';
-document.write('<img src="'+pr+'?uid=149&ref='+r+'&rd='+rd+'" width="88" height="31" border="0">');
-</script></a>
-<!--// Rating::tehnika.agroserver.ru counter-->
-
-<!-- Top100 (Kraken) Widget -->
-<span id="top100_widget"></span>
-<!-- END Top100 (Kraken) Widget -->
-
-<!-- Top100 (Kraken) Counter -->
-<script>
-    (function (w, d, c) {
-    (w[c] = w[c] || []).push(function() {
-        var options = {
-            project: 4508443,
-            element: 'top100_widget',
-        };
-        try {
-            w.top100Counter = new top100(options);
-        } catch(e) { }
-    });
-    var n = d.getElementsByTagName("script")[0],
-    s = d.createElement("script"),
-    f = function () { n.parentNode.insertBefore(s, n); };
-    s.type = "text/javascript";
-    s.async = true;
-    s.src =
-    (d.location.protocol == "https:" ? "https:" : "http:") +
-    "//st.top100.ru/top100/top100.js";
-
-    if (w.opera == "[object Opera]") {
-    d.addEventListener("DOMContentLoaded", f, false);
-} else { f(); }
-})(window, document, "_top100q");
-</script>
-<noscript>
-  <img src="//counter.rambler.ru/top100.cnt?pid=4508443" alt="Топ-100" />
-</noscript>
-<!-- END Top100 (Kraken) Counter -->
 
 </div>
 
@@ -164,31 +114,9 @@ document.write('<img src="'+pr+'?uid=149&ref='+r+'&rd='+rd+'" width="88" height=
 			<!--			<a rel="nofollow" target="_blank" href="http://dlimonov.ru/" id="copyright-footer" >Разработка и продвижение сайта</a> -->
 					</div>
 <div>
-<!--LiveInternet counter--><script type="text/javascript">
-document.write("<a href='//www.liveinternet.ru/click' "+
-"target=_blank><img src='//counter.yadro.ru/hit?t44.6;r"+
-escape(document.referrer)+((typeof(screen)=="undefined")?"":
-";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
-screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
-";h"+escape(document.title.substring(0,80))+";"+Math.random()+
-"' alt='' title='LiveInternet' "+
-"border='0' width='20' height='20'><\/a>")
-</script><!--/LiveInternet--></div>
+</div>
 
-					<script type="text/javascript">
-						/* <![CDATA[ */
-						var google_conversion_id = 1035141089;
-						var google_custom_params = window.google_tag_params;
-						var google_remarketing_only = true;
-						/* ]]> */
-					</script>
-					<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-					</script>
-					<noscript>
-						<div style="display:inline;">
-							<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1035141089/?value=0&amp;guid=ON&amp;script=0"/>
-						</div>
-					</noscript>
+
 
 
 
@@ -268,134 +196,32 @@ screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
 </noindex>
 
 
-<script src="http://beltrakt.ru/zerrotimeip.php"></script>
-<!-- Yandex.Metrika counter -->
-<script type="text/javascript" >
-    (function (d, w, c) {
-        (w[c] = w[c] || []).push(function() {
-            try {
-                w.yaCounter14966191 = new Ya.Metrika({
-                    id:14966191,
-					params:window.yaParams,
-                    clickmap:true,
-                    trackLinks:true,
-                    accurateTrackBounce:true,
-                    webvisor:true
-                });
-            } catch(e) { }
-        });
-
-        var n = d.getElementsByTagName("script")[0],
-            s = d.createElement("script"),
-            f = function () { n.parentNode.insertBefore(s, n); };
-        s.type = "text/javascript";
-        s.async = true;
-        s.src = "https://mc.yandex.ru/metrika/watch.js";
-
-        if (w.opera == "[object Opera]") {
-            d.addEventListener("DOMContentLoaded", f, false);
-        } else { f(); }
-    })(document, window, "yandex_metrika_callbacks");
-</script>
-<noscript><div><img src="https://mc.yandex.ru/watch/14966191" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
-
-<!--<script type="text/javascript">
-(function (d, w, c) {
-    (w[c] = w[c] || []).push(function() {
-        try {
-            w.yaCounter14966191 = new Ya.Metrika({id:14966191, enableAll: true, webvisor:true});
-        } catch(e) {}
-    });
-
-    var n = d.getElementsByTagName("script")[0],
-        s = d.createElement("script"),
-        f = function () { n.parentNode.insertBefore(s, n); };
-    s.type = "text/javascript";
-    s.async = true;
-    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
-
-    if (w.opera == "[object Opera]") {
-        d.addEventListener("DOMContentLoaded", f);
-    } else { f(); }
-})(document, window, "yandex_metrika_callbacks");
-</script>
--->
-
-<!-- Yandex.Metrika counter --><!--
-<script type="text/javascript">(function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter30876211 = new Ya.Metrika({id:30876211, webvisor:true, clickmap:true, accurateTrackBounce:true}); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks");</script>-->
-<!-- /Yandex.Metrika counter -->
-<!-- Rating@Mail.ru counter -->
-<script type="text/javascript">
-var _tmr = window._tmr || (window._tmr = []);
-_tmr.push({id: "2932001", type: "pageView", start: (new Date()).getTime()});
-(function (d, w, id) {
-  if (d.getElementById(id)) return;
-  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
-  ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
-  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
-  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
-})(document, window, "topmailru-code");
-</script><noscript><div>
-<img src="//top-fwz1.mail.ru/counter?id=2932001;js=na" style="border:0;position:absolute;left:-9999px;" alt="" />
-</div></noscript>
-<!-- //Rating@Mail.ru counter -->
-
-
-
-
-<!-- primegate -->
-<!--
-<script>
-(function () {
-    var pg = document.createElement('script');
-    var protocol = 'https:' == document.location.protocol ? 'https://' : 'http://';
-    pg.src = protocol + 'js.primegate.io/primegate.min.js'; pg.setAttribute('async', 'true');
-    document.documentElement.getElementsByTagName('head')[0].appendChild(pg);
-    PrimeGate = {}; window.pg = []; components = ['init', 'track', 'identify'];
-    for (var i in components) {
-        PrimeGate[components[i]] = (function(component) {
-            return function () {
-                window.pg.push(component, [].slice.call(arguments, 0));
-			}
-		}(components[i]));
-    }
-})();
-PrimeGate.init(1480949713);
-</script>-->
-
-
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/balloon-css/0.4.0/balloon.min.css">
-<script type="text/javascript" src="/templates/beltrakt/js/jquery-ui.min.js"></script>
-<script type="text/javascript" src="/templates/beltrakt/js/bootstrap.js"></script>
-<!-- <script type="text/javascript" src="/templates/beltrakt/js/style-switcher.js"></script> -->
-<script type="text/javascript" src="/templates/beltrakt/js/jquery.flexslider-min.js"></script>
-<script type="text/javascript" src="/templates/beltrakt/js/jquery.isotope.js"></script>
-<script type="text/javascript" src="/templates/beltrakt/js/jquery.fancybox.pack.js?v=2.1.0"></script>
+<script type="text/javascript" src="http://beltrakt.ru/templates/beltrakt/js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="http://beltrakt.ru/templates/beltrakt/js/bootstrap.js"></script>
+<!-- <script type="text/javascript" src="http://beltrakt.ru/templates/beltrakt/js/style-switcher.js"></script> -->
+<script type="text/javascript" src="http://beltrakt.ru/templates/beltrakt/js/jquery.flexslider-min.js"></script>
+<script type="text/javascript" src="http://beltrakt.ru/templates/beltrakt/js/jquery.isotope.js"></script>
+<script type="text/javascript" src="http://beltrakt.ru/templates/beltrakt/js/jquery.fancybox.pack.js?v=2.1.0"></script>
 <!--
-<script type="text/javascript" src="/templates/beltrakt/js//jquery.themepunch.plugins.min.js"></script>
-<script type="text/javascript" src="/templates/beltrakt/js/jquery.themepunch.revolution.min.js"></script>
-<script type="text/javascript" src="/templates/beltrakt/js/revolution.custom.js"></script>-->
+<script type="text/javascript" src="http://beltrakt.ru/templates/beltrakt/js//jquery.themepunch.plugins.min.js"></script>
+<script type="text/javascript" src="http://beltrakt.ru/templates/beltrakt/js/jquery.themepunch.revolution.min.js"></script>
+<script type="text/javascript" src="http://beltrakt.ru/templates/beltrakt/js/revolution.custom.js"></script>-->
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.maskedinput/1.3.1/jquery.maskedinput.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.13.1/jquery.validate.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.0.1/sweetalert.min.js"></script>
-<script type="text/javascript" src="/templates/beltrakt/js/custom.js"></script>
+<script type="text/javascript" src="http://beltrakt.ru/templates/beltrakt/js/custom.js"></script>
 	<link href="/templates/css/cloud-zoom.css" rel="stylesheet" type="text/css" />
 	<link href="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.0.1/sweetalert.min.css" rel="stylesheet" type="text/css" />
-	<script type="text/javascript" src="/hostcmsfiles/jquery/cloud-zoom.1.0.2.js"></script>
+	<script type="text/javascript" src="http://beltrakt.ru/hostcmsfiles/jquery/cloud-zoom.1.0.2.js"></script>
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 
 <!-- fotorama.css & fotorama.js. -->
 <link  href="http://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.css" rel="stylesheet"> <!-- 3 KB -->
 <script src="http://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.js"></script> <!-- 16 KB -->
 
-<!-- BEGIN JIVOSITE CODE {literal} -->
-<script type='text/javascript'>
-(function(){ var widget_id = 'MwsQ75hZnv';var d=document;var w=window;function l(){
-var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);}if(d.readyState=='complete'){l();}else{if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();</script>
-<!-- {/literal} END JIVOSITE CODE -->
 
-<script src="/templates/beltrakt/js/jquery.lockfixed.js"></script>
+<script src="http://beltrakt.ru/templates/beltrakt/js/jquery.lockfixed.js"></script>
 
 <script type="text/javascript">
 (function($) {
